@@ -32,7 +32,6 @@ RUN docker-php-ext-install \
     xml \
     xsl \
     intl \
-    json \
     mbstring \
     curl \
     simplexml \
